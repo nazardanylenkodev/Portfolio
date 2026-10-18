@@ -9,23 +9,8 @@ export default function Projects() {
      description: "A personal portfolio website designed to showcase my projects, certificates, educational background, and professional profile. It provides an intuitive interface for exploring my work, accessing my GitHub profile, finding contact information, and learning more about my skills and experience.",
      techStack: ["Vite", "React", "Tailwind CSS", "JavaScript"],
      githubUrl: ""
-    },
-    {
-      title: "CUDA GPU Matrix Multiplication Benchmark",
-      language: "C++ / CUDA",
-      category: "High-Performance Computing",
-      description: "Проєкт із курсу за паралельними обчисленнями: реалізація множення матриць на паралельних ядрах NVIDIA GPU з порівнянням швидкодії проти послідовного CPU-коду.",
-      techStack: ["C++", "CUDA API", "GCC", "NVIDIA Nsight"],
-      githubUrl: "https://github.com/nazardanilenko"
-    },
-    {
-      title: "Pet Store REST API Back-end",
-      language: "Java",
-      category: "Software Engineering",
-      description: "Базовий RESTful сервіс на Java для управління каталогом товарів і замовленнями з обробкою винятків та збереженням даних у базі.",
-      techStack: ["Java 17", "JDBC", "PostgreSQL", "Maven"],
-      githubUrl: "https://github.com/nazardanilenko"
     }
+   
   ];
 
   return (

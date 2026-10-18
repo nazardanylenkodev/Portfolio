@@ -2,10 +2,10 @@ import { Download, Mail, ArrowUpRight, GraduationCap, Globe2 } from 'lucide-reac
 
 export default function Hero() {
   const languages = [
-    { name: "Українська", level: "C2 (Рідна)" },
-    { name: "Російська", level: "C2" },
-    { name: "Англійська", level: "B2 (Робоча)" },
-    { name: "Естонська", level: "A2" },
+    { name: "Ukrainian", level: "C2 (Native)" },
+    { name: "Russian", level: "C2" },
+    { name: "English", level: "B2 (Working)" },
+    { name: "Estonian", level: "A2" },
   ];
 
   return (
@@ -31,7 +31,7 @@ export default function Hero() {
             </p>
 
             <p className="text-slate-400 text-base leading-relaxed max-w-2xl font-sans mb-8">
-              Student 4th year of ХНУРЕ with a solid foundation in algorithms, object-oriented programming and automation. Passionate about development, high-performance computing and infrastructure solutions.
+              Student 4th year of NURE with a solid foundation in algorithms, object-oriented programming and automation. Passionate about development, high-performance computing and infrastructure solutions.
             </p>
           </div>
 
@@ -62,7 +62,7 @@ export default function Hero() {
                 Education (Bachelor)
               </div>
               <h3 className="text-base font-bold text-slate-100">
-                Kharkiv National University of Radio Electronics (ХНУРЕ)
+                Kharkiv National University of Radio Electronics (NURE)
               </h3>
               <p className="text-xs text-sky-400 font-mono mt-1">
                 4th year • Specialization «Software Engineering»
