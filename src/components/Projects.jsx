@@ -8,7 +8,7 @@ export default function Projects() {
      category: "Web Development / Portfolio",
      description: "A personal portfolio website designed to showcase my projects, certificates, educational background, and professional profile. It provides an intuitive interface for exploring my work, accessing my GitHub profile, finding contact information, and learning more about my skills and experience.",
      techStack: ["Vite", "React", "Tailwind CSS", "JavaScript"],
-     githubUrl: ""
+     githubUrl: "https://github.com/nazardanylenkodev/Portfolio"
     }
    
   ];
